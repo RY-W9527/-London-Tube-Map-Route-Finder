@@ -51,3 +51,7 @@ python -m tube.map
 Contains a test of the full pipeline:
 1. Reading the JSON file using the class `TubeMap`.
 2. Computing the shortest path between two stations using `PathFinder` and printing it.
+
+## Acknowledgments
+This project was developed as part of the coursework for COMP70053 Python Programming at Imperial College London.
+We would like to thank the course instructors and teaching assistants for their guidance.
